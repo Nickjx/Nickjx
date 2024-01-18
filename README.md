@@ -14,4 +14,4 @@
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=nickjx&show_icons=true&locale=en&layout=compact" alt="nickjx" /></p>
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=nickjx&show_icons=true&locale=en" alt="nickjx" /></p>
-[![Roma Boiko profile views](https://u8views.com/api/v1/github/profiles/102807041/views/day-week-month-total-count.svg)](https://u8views.com/github/Nickjx)
+<a href="https://u8views.com/github/Nickjx"><img src="https://u8views.com/api/v1/github/profiles/102807041/views/day-week-month-total-count.svg"></a>

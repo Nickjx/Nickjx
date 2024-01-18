@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-<!--
+
 #Nickjx
 <h1 align="center">Hi 👋, I'm Roman</h1>
 <h3 align="center">A frontend developer from Ukraine</h3>
@@ -18,5 +18,3 @@
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=nickjx&show_icons=true&locale=en&layout=compact" alt="nickjx" /></p>
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=nickjx&show_icons=true&locale=en" alt="nickjx" /></p>
-
--->

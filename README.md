@@ -20,3 +20,4 @@
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=nickjx&show_icons=true&locale=en" alt="nickjx" /></p>
 
+<a href="https://u8views.com/github/Nickjx"><img src="https://u8views.com/api/v1/github/profiles/102807041/views/day-week-month-total-count.svg"></a>

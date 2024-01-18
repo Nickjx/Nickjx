@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Roman</h1>
-<h3 align="center">A frontend developer from Ukraine</h3>
+<h3 align="center">i'm frontend developer from Ukraine</h3>
 
 - ⚡ Fun fact **I like Learn all new for me**
 

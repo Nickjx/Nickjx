@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Roman</h1>
 <h3 align="center">A frontend developer from Ukraine</h3>
 
-- 🌱 I’m currently learning **HTML,CSS,JS**
+- 🌱 I’m currently learning **JS**
 
 - 📫 How to reach me **romaboiko20@gmail.com**
 
